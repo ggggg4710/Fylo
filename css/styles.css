@@ -8,6 +8,7 @@ img {
 }
 
 /********************************* Navigation *********************************/
+
 .Navigation {
   width: 90%;
   margin: 5% 3%;
@@ -38,6 +39,7 @@ a:hover {
 }
 
 /************************************ Main ************************************/
+
 .main {
   margin: 0 auto;
   max-width: 670px;
@@ -74,6 +76,7 @@ h1 {
 }
 
 /******************************** INFO Section ********************************/
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto;
@@ -107,6 +110,7 @@ h1 {
 }
 
 /****************************** More-Info Section *****************************/
+
 .grid-container2 {
   display: grid;
   grid-template-columns: auto auto;
@@ -142,6 +146,7 @@ h1 {
 }
 
 /**************************** TESTIMONIALS Section ****************************/
+
 .quotes {
   position: relative;
   top: 135px;
@@ -183,6 +188,7 @@ h1 {
 }
 
 /********************************* CTA Section ********************************/
+
 .cta {
   background-color: #1c2431;
   width: 90%;
@@ -232,6 +238,7 @@ h1 {
 }
 
 /******************************* FOOTER Section *******************************/
+
 .footer {
   background-color: #0b1523;
   font-family: "Open Sans", sans-serif;
@@ -303,6 +310,7 @@ h1 {
 }
 
 /******************************* MEDIA Section ********************************/
+
 @media (max-width:1200px) {
 
   /* navigation */
