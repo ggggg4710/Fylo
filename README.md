@@ -1,6 +1,6 @@
 # Fylo
 
-A landing page built using HTML and CSS. It uses the grid layout which makes it responsive.
+A landing page built using HTML and CSS. It uses the grid layout in order to make it responsive.
 
 You can access it by clicking <a href="https://suheybhersi.github.io/Fylo/">here</a>
 
